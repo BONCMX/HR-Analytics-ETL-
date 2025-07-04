@@ -1,6 +1,7 @@
-# 📊HR-Analytics-ETL-
-#  ETL Data HR Analysis Project – Enrollee Profiling & Workforce Readiness
+# 📊HR-Analytics (ETL)
+![HR Analytics](https://files.chatgpt.com/file-B1VsNmB71JnAMHj3BRxeJ7/HR_Analytics_Image_For_GitHub.png)
 
+#  ETL Data HR Analysis Project – Enrollee Profiling & Workforce Readiness
 ## 🚀 Project Overview
 
 This project demonstrates a comprehensive **ETL (Extract – Transform – Load)** pipeline applied to a simulated workforce analytics dataset. The goal is to **collect, clean, and prepare** data for future analysis related to **employment prediction, training assessment**, and **urban development factors**.
