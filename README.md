@@ -1,5 +1,10 @@
 # 📊HR-Analytics (ETL)
-![HR Analytics](https://files.chatgpt.com/file-B1VsNmB71JnAMHj3BRxeJ7/HR_Analytics_Image_For_GitHub.png)
+## 🎯 Project Theme: HR Analytics
+
+<p align="center">
+  <img src="https://files.chatgpt.com/file-B1VsNmB71JnAMHj3BRxeJ7/HR_Analytics_Image_For_GitHub.png" width="500"/>
+</p>
+
 
 #  ETL Data HR Analysis Project – Enrollee Profiling & Workforce Readiness
 ## 🚀 Project Overview
