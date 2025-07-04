@@ -103,11 +103,5 @@ This project reflects not just technical skill, but a deep understanding of how 
 
 ---
 
-## 📬 Contact
 
-**Name**: Anh Lộc đẹp trai vô địch khắp mọi vũ trụ  
-**Email**: [your_email@example.com]  
-**LinkedIn**: [Your LinkedIn Profile](#)  
-
----
 
